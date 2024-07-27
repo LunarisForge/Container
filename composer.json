@@ -1,0 +1,27 @@
+{
+  "name": "lunaris-forge/http",
+  "description": "A dependency injection container.",
+  "type": "library",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "LunarisForge\\Container\\": "src/Container"
+    }
+  },
+  "authors": [
+    {
+      "name": "Slatyo",
+      "email": "daniel.henze@outlook.com"
+    }
+  ],
+  "require": {
+  },
+  "require-dev": {
+    "php": "^8.3",
+    "phpstan/phpstan": "^1.11",
+    "phpunit/phpunit": "^11.2",
+    "phpunit/php-code-coverage": "^11.0",
+    "squizlabs/php_codesniffer": "3.*",
+    "ext-xdebug": "*"
+  }
+}
