@@ -1,5 +1,5 @@
 {
-  "name": "lunaris-forge/http",
+  "name": "lunaris-forge/container",
   "description": "A dependency injection container.",
   "type": "library",
   "license": "MIT",
